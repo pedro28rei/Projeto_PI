@@ -1,0 +1,3 @@
+0001;Pedro Rei;969037357;20
+0002;Goncalo Goncalves;923401952;18
+0003;Mario Macedo;969798902;18
